@@ -3,7 +3,7 @@
 I'm Alex, a frontend developer who believes in the power of laughter and good code!
 
 ## About Me 🚀
-- 🌱 I’m currently learning everything I can about React and Vue, because who doesn't love more frameworks?
+- 🌱 I’m currently learning everything I can about Vue because who doesn't love more frameworks?
 - 👯 I’m looking to collaborate on projects that make the internet a funnier place.
 - 🤔 I’m looking for help with understanding why my code works on the second try.
 - 💬 Ask me about PHP, JavaScript, HTML, SCSS, CSS, WordPress, and the best coding memes.
